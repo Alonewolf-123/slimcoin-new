@@ -1,0 +1,11 @@
+usr/local/bin/slimcoin-qt usr/bin
+share/pixmaps/slimcoin16.png usr/share/pixmaps
+share/pixmaps/slimcoin32.png usr/share/pixmaps
+share/pixmaps/slimcoin128.png usr/share/pixmaps
+share/pixmaps/slimcoin256.png usr/share/pixmaps
+share/pixmaps/slimcoin-testnet32.png usr/share/pixmaps
+share/pixmaps/slimcoin-testnet128.png usr/share/pixmaps
+share/pixmaps/slimcoin-testnet256.png usr/share/pixmaps
+debian/slimcoin-qt.desktop usr/share/applications
+debian/slimcoin-testnet-qt.desktop usr/share/applications
+debian/slimcoin-qt.protocol usr/share/kde4/services/

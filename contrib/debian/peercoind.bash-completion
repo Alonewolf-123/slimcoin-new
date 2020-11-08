@@ -1,0 +1,3 @@
+contrib/slimcoind.bash-completion	slimcoind
+contrib/slimcoin-cli.bash-completion	slimcoin-cli
+contrib/slimcoin-tx.bash-completion	slimcoin-tx

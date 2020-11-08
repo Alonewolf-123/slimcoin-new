@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Slimcoin (testnet)
+Comment=Desktop allet for Slimcoin Cryptocurrency (testnet)
+Comment[de]=Offizieller Client für die Kryptowährung Slimcoin (testnet)
+Exec=slimcoin-qt -testnet %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/slimcoin-testnet128.png
+MimeType=x-scheme-handler/slimcoin;
+Categories=Application;Network;
